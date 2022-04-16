@@ -28,13 +28,11 @@ You can add mayonaise or mustard to the mash.
 # Preparation
 
 1. Preheat the oven to 200C
-2. Peel the potatoes and halve any large potatoes
+2. Peel the potatoes and chop into small chunks 
 3. Pick the thyme leaves
 4. Press the garlic cloves
 5. Finely chop the onion
 6. Prepare 1l of vegetable stock
-
-What are all the steps required to prepare the food?
 
 # Cooking
 
@@ -58,7 +56,7 @@ If you are using fresh carrots/mushrooms/celery then you should:
 
 1. Use a large frying pan to fry the onions in cooking oil for 5 min, adding small amounts of water until caramelized
 2. Fry garlic for 1 min
-3. Add stock, lentils, tomato paste, and salt & pepper
+3. Add stock, lentils, tomato paste, thyme, and salt & pepper
 4. Cover with lid and allow to simmer for 25 mins until lentils are cooked, adding water if necessary
 5. Add mixed vegetables and wait 10 mins
 6. Remove lid when lentils are cooked to reduce any water
